@@ -30,7 +30,7 @@ dist-ssr
 .env.development
 
 # Claude Code local configuration
-.claude
+src/.claude
 
 # Profile images (add your own)
 public/images/*.jpg
