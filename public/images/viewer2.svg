@@ -1,0 +1,10 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="24" cy="24" r="24" fill="#FCE4EC"/>
+  <!-- Face -->
+  <circle cx="24" cy="20" r="8" fill="#D7A78F"/>
+  <!-- Body -->
+  <path d="M10 48C10 38 16 32 24 32C32 32 38 38 38 48" fill="#9C27B0"/>
+  <!-- Hair -->
+  <ellipse cx="24" cy="16" rx="9" ry="7" fill="#4A148C"/>
+  <path d="M15 16C15 12 18 10 24 10C30 10 33 12 33 16C33 18 32 19 30 19C30 16 28 15 24 15C20 15 18 16 18 19C16 19 15 18 15 16Z" fill="#4A148C"/>
+</svg>

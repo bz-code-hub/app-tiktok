@@ -1,0 +1,9 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="24" cy="24" r="24" fill="#E8F5F9"/>
+  <!-- Face -->
+  <circle cx="24" cy="20" r="8" fill="#8D6E63"/>
+  <!-- Body -->
+  <path d="M10 48C10 38 16 32 24 32C32 32 38 38 38 48" fill="#5D4037"/>
+  <!-- Hair -->
+  <path d="M24 12C16 12 15 16 15 20C15 20 16 18 20 18C20 18 20 15 24 15C28 15 28 18 28 18C32 18 33 20 33 20C33 16 32 12 24 12Z" fill="#3E2723"/>
+</svg>
